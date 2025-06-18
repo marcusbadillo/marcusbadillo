@@ -36,3 +36,8 @@ I blend strong UI/UX sensibilities with creativity — currently using React, No
 - 🗃️ [OC Media Lab GitHub](https://github.com/marcusbadillo)
 
 ---
+
+<!-- 
+maybe use this later
+https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+-->
